@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thelmat78@gmail.com
+	name = Thelma Tsikify
